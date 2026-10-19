@@ -56,4 +56,4 @@ The main objective of this project is to demonstrate practical skills in **Power
 
 **⭐ If you find this project useful, consider giving this repository a star!**
 ## 📷 Screenshots / Demos
-![Dashboard Preview](https://github.com/your-username/your-repo-name/raw/main/assets/dashboard.png)
+![Dashboard Preview]([https://github.com/your-username/your-repo-name/raw/main/assets/dashboard.png](https://github.com/Amit-kushwaha12/sales-dashboard/blob/main/dashboard.png))
